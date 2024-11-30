@@ -1,0 +1,5 @@
+Hadoop is a framework for big data processing
+Hadoop is used for MapReduce tasks
+Big data is a big thing
+Hadoop Distributed File System(HDFS) 
+is a distributed file system designed for handling and storing very large files running on clusters
